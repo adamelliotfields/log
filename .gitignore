@@ -1,0 +1,15 @@
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Kubuntu
+.directory
+
+# NPM
+node_modules/
+npm-debug.log*
